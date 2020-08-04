@@ -8,7 +8,7 @@ SYNOPSIS
 
        safeDel [-option] [arguments]
 
-       safeDel [files]
+       safeDel [file] [file] [file] ...
 
 DESCRIPTION
 
