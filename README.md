@@ -2,24 +2,24 @@
 
 NAME
 
-	safeDel.sh - Safely delete files for future recoverability
+       safeDel.sh - Safely delete files for future recoverability
 
 SYNOPSIS
 
-	safeDel [-option] [arguments]
+       safeDel [-option] [arguments]
 
-	safeDel [files] config-file ] file ...
+       safeDel [files] config-file ] file ...
 
 DESCRIPTION
 
-	safeDel.sh  takes file names as arguments and moves them to a new folder created named
-	.trashCan.  There are also command line options you can call to gain access to further
-	functionality  of  the  safeDel.sh script. Calling the script with no options or argu‐
-	ments will prompt a menu which you can easily use to interface with the script.
+       safeDel.sh  takes file names as arguments and moves them to a new folder created named
+       .trashCan.  There are also command line options you can call to gain access to further
+       functionality  of  the  safeDel.sh script. Calling the script with no options or argu‐
+       ments will prompt a menu which you can easily use to interface with the script.
 
 OPTIONS
 
-	   -l     Lists all files in the .trashCan folder.
+       -l     Lists all files in the .trashCan folder.
 
        -r     Recovers a file from the .trashCan folder and places it in safeDel.sh's working
               directory
