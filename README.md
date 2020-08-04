@@ -8,7 +8,7 @@ SYNOPSIS
 
        safeDel [-option] [arguments]
 
-       safeDel [files] config-file ] file ...
+       safeDel [files]
 
 DESCRIPTION
 
